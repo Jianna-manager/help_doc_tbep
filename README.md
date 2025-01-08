@@ -1,6 +1,6 @@
 ---
-description: Welcome to our Interactive Network Visualization tool!
 icon: flag-checkered
+description: Welcome to our Interactive Network Visualization tool!
 ---
 
 # Overview
@@ -25,4 +25,4 @@ Once deciding the network, our platform will render the network based on your se
 
 #### Common Issues
 
-If you encounter any issues, check our [FAQ page](faq.md). You can also check [Use Cases](use-cases.md) for a quick hands-on.
+If you encounter any issues, check our [FAQ page](faq.md). You can also check [Use Cases](use-cases-and-short-help-videos.md) for a quick hands-on.

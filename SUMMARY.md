@@ -19,5 +19,5 @@
     * [Pathways](knowledge-base/disease-independent-data/pathways.md)
     * [Druggability](knowledge-base/disease-independent-data/druggability.md)
     * [Tissue Specificity](knowledge-base/disease-independent-data/tissue-specificity.md)
-* [Use Cases](use-cases.md)
+* [Use Cases & Short help videos](use-cases-and-short-help-videos.md)
 * [FAQ](faq.md)

@@ -69,20 +69,20 @@ You can upload your own customized data to analyze the network, instead of using
 
 1. Upload a **CSV** file with your own data, please refer to the [File Format](left-panel.md#file-format) below.
 2. Click Submit.
-3. Check the available genes and unavailable genes.
-4. Locate Node Color section and select the corresponding feature name.
-5. Select the column name of your customized data.
-   * **Note**: "-custom" will be added to the column names you uploaded, so you simply need to type "custom" in the search bar when you select the column names, then the column names of your uploaded customized data will appear immediately.
+3. Locate Node Color and/or Node Size section and select the corresponding uploaded feature name.
+4. Select the column name of your customized data.
 
-<figure><img src="../.gitbook/assets/1735596428183.png" alt=""><figcaption><p>Custom upload</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1736303808305.png" alt=""><figcaption><p>Custom upload</p></figcaption></figure>
 
 #### File Format
 
 * The table below elaborates the naming convention, and the value ranges for all the supported features (data types).&#x20;
   * "Custom" data type is for customized color purpose. For example, if you find all the features do not fit your needs, you can create your own "customized feature" and color them by yourself.
 
-<table><thead><tr><th width="189">Data Type</th><th>Column Naming Convention</th><th>Value range</th></tr></thead><tbody><tr><td>LogFC</td><td>logFC<mark style="color:red;">_DiseaseName_CustomName</mark></td><td>[-Inf, +Inf]</td></tr><tr><td>GDA</td><td>GDA<mark style="color:red;">_DiseaseName_CustomName</mark></td><td>[0, 1]</td></tr><tr><td>Genetics</td><td>GWAS<mark style="color:red;">_DiseaseName_CustomName</mark></td><td>[-1, 1]</td></tr><tr><td>Pathway</td><td>pathway<mark style="color:red;">_CustomName</mark></td><td>binary</td></tr><tr><td>Druggability</td><td>druggability<mark style="color:red;">_CustomName</mark></td><td>[0, 1]</td></tr><tr><td>Tissue Enrichment</td><td>TE<mark style="color:red;">_CustomName</mark></td><td>[0, +Inf]</td></tr><tr><td>Database</td><td>database<mark style="color:red;">_CustomName</mark></td><td>binary</td></tr><tr><td>Custom</td><td>custom_color<mark style="color:red;">_CustomName</mark></td><td>red, green, blue, orange, yellow, black</td></tr></tbody></table>
+<table><thead><tr><th width="189">Data Type</th><th>Column Naming Convention</th><th>Value range</th></tr></thead><tbody><tr><td>Differential Expression</td><td>DEG<mark style="color:red;">_CustomName</mark></td><td>[-Inf, +Inf]</td></tr><tr><td>Target Disease Association</td><td>OpenTargets<mark style="color:red;">_CustomName</mark></td><td>[0, 1]</td></tr><tr><td>Target Prioritization Factors</td><td>OT_Prioritization<mark style="color:red;">_CustomName</mark></td><td>[-1, 1]</td></tr><tr><td>Pathway</td><td>Pathway<mark style="color:red;">_CustomName</mark></td><td>binary</td></tr><tr><td>Druggability</td><td>Druggability<mark style="color:red;">_CustomName</mark></td><td>[0, 1]</td></tr><tr><td>Tissue Specificity</td><td>TE<mark style="color:red;">_CustomName</mark></td><td>[0, +Inf]</td></tr><tr><td>Custom</td><td>Custom_Color<mark style="color:red;">_CustomName</mark></td><td>red, green, blue, orange, yellow, black</td></tr></tbody></table>
 
 * The CSV file below provides an example of what the real file looks like.
+  * The first column must be either gene name or Ensembl id (column name doesn't matter)
+  * The prefix of columns is case-insensitive
 
-<figure><img src="../.gitbook/assets/1735596546431(1).png" alt=""><figcaption><p>Example of a customized CSV file</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Example of a customized CSV file</p></figcaption></figure>
