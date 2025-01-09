@@ -97,48 +97,23 @@ You can change the label density here.
 
 * **Show Edge Label**
 
+You can make edge label (edge weight) appear/disappear. To view more edge labels, simply zoom in the network.
 
+<figure><img src="../.gitbook/assets/1736403488547.png" alt=""><figcaption><p>Show Edge Label</p></figcaption></figure>
+
+You can also refer to the information icon <img src="../.gitbook/assets/1736049289149(1).png" alt="" data-size="line"> for the large network tips.
 
 * **Show Edge Color**
 
+You can change the edge color here. Please refer to the Legends section on the [Right Panel](right-panel.md) for the color meaning.
 
+<figure><img src="../.gitbook/assets/1736404223829.png" alt=""><figcaption><p>Show Edge Color</p></figcaption></figure>
 
 * **Node Color**
 
+You can change the node color here, simply by selecting different color or type different color names.
 
-
-### Highlight Node/Edge Color
-
-You can check/uncheck Highlight Seed Genes and Show Edge Color here. Please refer to [Property of seed genes](./#property-of-seed-genes) and [Property of Interactions](./#property-of-interactions) for more details.
-
-### Annotations&#x20;
-
-You can check the details of the selected nodes in Annotations section.
-
-1. Press "shift" + left mouse button to select nodes on the network, and the selected nodes will be highlighted with black circle.
-2. Click Node Details button to obtain the more detailed information of selected nodes.
-
-<figure><img src="../.gitbook/assets/1735615210318.png" alt=""><figcaption><p>Annotations</p></figcaption></figure>
-
-### GSEA
-
-Similar to Annotation section, after select nodes on the network, you can find the GSEA analysis results in the GSEA section.
-
-1. Press "shift" + left mouse button to select nodes on the network, and the selected nodes will be highlighted with black circle.
-2. Click Analysis Details button to obtain the more detailed information of selected nodes.
-3. If needed, Click Export Details button in the GSEA Analysis Results window to export the results.
-
-<figure><img src="../.gitbook/assets/1735615241904.png" alt=""><figcaption><p>GSEA</p></figcaption></figure>
-
-
-
-### Property of interactions
-
-The interactions (edges) can be colored following the heat map color palette, i.e. the more yellow-ish color indicates the smaller interaction score (edge weight), the more red-ish color indicates the larger interaction score. You can also check "Edge Legends" section on the bottom of the right panel.
-
-Similarly, you can change this property on the right panel by checking/unchecking the "Show Edge Color" in the "Highlight Node/Edge Color" section.
-
-<figure><img src="../.gitbook/assets/1731628864861.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1736404655031.png" alt=""><figcaption><p>Change Node Color</p></figcaption></figure>
 
 ***
 
