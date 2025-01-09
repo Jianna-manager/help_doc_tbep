@@ -1,6 +1,6 @@
 ---
-description: Various data
 icon: database
+description: Various data
 ---
 
 # Knowledge Base
@@ -11,7 +11,7 @@ We have different kinds of data available on the left panel of network visualiza
 
 Data types are transformed to defined representations, so that they can be handled consistently and displayed intuitively by the frontend.
 
-* **Disease-dependent** data varies with different diseases, including [LogFC](disease-dependent-data/differential-expression.md) (_Differential expression in Log2 fold change_), [GDA ](disease-dependent-data/target-disease-association.md)(_Gene Disease Association score_) and [Genetics](disease-dependent-data/target-prioritization-factors.md) (_Odd ratio or Beta-values from population studies_). Currently, you can switch among 4 different diseases — ALS (Amyotrophic lateral sclerosis), FTD (Frontotemporal dementia), OI (Osteogenesis imperfecta) and PSP (Progressive Supranuclear Palsy).
+* **Disease-dependent** data varies with different diseases, including [LogFC](disease-dependent-data/differential-expression.md) (_Differential expression in Log2 fold change_), [GDA ](disease-dependent-data/target-disease-association.md)(_Gene Disease Association score_) and [Genetics](disease-independent-data/target-prioritization-factors.md) (_Odd ratio or Beta-values from population studies_). Currently, you can switch among 4 different diseases — ALS (Amyotrophic lateral sclerosis), FTD (Frontotemporal dementia), OI (Osteogenesis imperfecta) and PSP (Progressive Supranuclear Palsy).
 * **Disease-independent** data DO NOT vary with different diseases, including [Pathway](disease-independent-data/pathways.md) (_Pathway membership from KEGG and Reactome_), [Druggability](disease-independent-data/druggability.md) (_Druggability score form Open Targets_) and [Tissue Enrichment](disease-independent-data/tissue-specificity.md) (_Tissue-specific expression from GTEX and HPA_).
 
 ### Knowledge Base Summary

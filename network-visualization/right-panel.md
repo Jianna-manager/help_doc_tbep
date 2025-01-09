@@ -1,5 +1,5 @@
 ---
-description: Modifications of inherent network parameters
+description: Advanced analysis functions and modifications of inherent network parameters
 ---
 
 # Right panel
@@ -58,26 +58,52 @@ You can see the Legend of each feature in Node Color section.
 
 1. Choose a feature in Node Color section on the [Left panel](left-panel.md), then navigate to Legends section on the [Right panel](right-panel.md) to get the legend of a specific feature.
 
-<figure><img src="../.gitbook/assets/1735616364361(1).png" alt=""><figcaption><p>Legends when choosing logFC in Node Color</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1736395190478.png" alt=""><figcaption><p>Legends when selecting Druggability in Node Color</p></figcaption></figure>
 
 ### Network Layout
 
 You can make the node clusters more separated.
 
-1. Select **Distance** or other options.
-2. Select the distance value to separate the nodes.
+1. Use the **range slider** or directly **type in** the proper number in Link Distance, this will make the edge of the network longer, helping the clusters separated from each other.
+2. Use the **range slider** or directly **type in** the proper number in Charge Strength, this will separate the nodes from each other.
 
-<figure><img src="../.gitbook/assets/1735609050570.png" alt=""><figcaption><p>Network layout</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1736397446375.png" alt=""><figcaption><p>Change Link Distance</p></figcaption></figure>
 
-You can also use "Stop Animation" button to stop dancing of the network.
+<figure><img src="../.gitbook/assets/1736397593098 (1).png" alt=""><figcaption><p>Change Charge Strength</p></figcaption></figure>
+
+You can also toggle "Animation" button to stop dancing of the network.
 
 ### Network Style
 
-You can change basic parameters of the network, i.e. change the **Node Color**, **Link Opacity**, **Node Size** and **Text Size**. See below.
+You can change basic parameters of the network.
 
-<figure><img src="../.gitbook/assets/1735610920617.png" alt=""><figcaption><p>Network parameters</p></figcaption></figure>
+* **Node Size**
+
+You can make node size larger/smaller.
+
+<figure><img src="../.gitbook/assets/1736398182205.png" alt=""><figcaption><p>Change Node Size</p></figcaption></figure>
+
+* **Node Label Size**
+
+You can make node label size larger/smaller.
+
+<figure><img src="../.gitbook/assets/1736398407283.png" alt=""><figcaption><p>Change Node Label Size</p></figcaption></figure>
+
+* **Label Density**
+
+You can change the label density here.
+
+<figure><img src="../.gitbook/assets/1736398695366.png" alt=""><figcaption><p>Change Label Density</p></figcaption></figure>
+
+* **Show Edge Label**
 
 
+
+* **Show Edge Color**
+
+
+
+* **Node Color**
 
 
 
@@ -103,14 +129,6 @@ Similar to Annotation section, after select nodes on the network, you can find t
 3. If needed, Click Export Details button in the GSEA Analysis Results window to export the results.
 
 <figure><img src="../.gitbook/assets/1735615241904.png" alt=""><figcaption><p>GSEA</p></figcaption></figure>
-
-###
-
-
-
-### Edge Legends
-
-Please refer to [Property of Interactions](./#property-of-interactions) for more details.
 
 
 
