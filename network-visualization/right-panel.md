@@ -14,7 +14,7 @@ You can reduce the network complexity and focus on the key drivers of your netwo
 
 * **Community detection**
 
-We offer community detection algorithm **Leiden** [\[1\]](right-panel.md#citation) in our tool, you can easily use this algorithm to find possible communities in the network, based on your own choice of **Resolution** and **Weighted**.
+We offer community detection algorithm **Leiden** [\[1\]](right-panel.md#citation-1) in our tool, you can easily use this algorithm to find possible communities in the network, based on your own choice of **Resolution** and **Weighted**.
 
 1. Click Leiden.
 2. Select proper Resolution, check or uncheck Weighted, to involve edge weight or not.
