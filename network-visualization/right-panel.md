@@ -52,6 +52,8 @@ Hub Genes will highlight the nodes only with larger or equal to the number of ed
 
 When the network is rendered, the basic information of the network is shown here, i.e. total nodes, total edges.
 
+You can also click "Show Details" button after selecting the nodes in the network. Please refer to [Node Details & GSEA](network-visualization-board.md#annotations-and-gsea) in [Network visualization board](network-visualization-board.md) section for more information.
+
 ### Legends
 
 You can see the Legend of each feature in Node Color section.

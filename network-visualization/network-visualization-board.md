@@ -34,21 +34,15 @@ After created your network, you can ask questions regarding your network through
 
 <figure><img src="../.gitbook/assets/1736466924147.png" alt=""><figcaption><p>Knowledge bot</p></figcaption></figure>
 
-### Annotations&#x20;
+### Node Details & GSEA
 
-You can check the details of the selected nodes in Annotations section.
-
-1. Press "shift" + left mouse button to select nodes on the network, and the selected nodes will be highlighted with black circle.
-2. Click Node Details button to obtain the more detailed information of selected nodes.
-
-<figure><img src="../.gitbook/assets/1735615210318.png" alt=""><figcaption><p>Annotations</p></figcaption></figure>
-
-### GSEA
-
-Similar to Annotation section, after select nodes on the network, you can find the GSEA analysis results in the GSEA section.
+You can check the node details and perform GSEA (Gene Set Enrichment Analysis) on the network visualization board.
 
 1. Press "shift" + left mouse button to select nodes on the network, and the selected nodes will be highlighted with black circle.
-2. Click Analysis Details button to obtain the more detailed information of selected nodes.
-3. If needed, Click Export Details button in the GSEA Analysis Results window to export the results.
+2. Click Details tab to obtain the detailed information of selected nodes.
+3. Click GSEA Analysis tab to obtain the more detailed information of GSEA Analysis Results.
+4. Navigate to [Network Info](right-panel.md#network-info) section of [Right panel](right-panel.md), click Show Details button to get back to the Node details and GSEA Analysis result window.
+5. If needed, click download button in the window to export the results.
 
-<figure><img src="../.gitbook/assets/1735615241904.png" alt=""><figcaption><p>GSEA</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1736468992138.png" alt=""><figcaption><p>Node Details and GSEA</p></figcaption></figure>
+
