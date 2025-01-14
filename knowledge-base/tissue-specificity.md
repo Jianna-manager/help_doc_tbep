@@ -4,8 +4,6 @@ description: Tissue-specific expression from GTEX and HPA, value ranging from 0 
 
 # Tissue Specificity
 
-Tissue-specific expression calculated from bulk RNA-seq and cell type specific expression data calculated from single nuclei RNA-seq is available in the knowledge base to extract information specific to a given tissue or cell type.
-
 ### Bulk RNA-seq
 
 Data sources:
@@ -19,11 +17,11 @@ Data sources:
 
 In the end, the data is transformed into the csv file below:
 
-<figure><img src="../../.gitbook/assets/1733436633581.png" alt=""><figcaption><p>Bulk RNA-seq data in our knowledge base</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1733436633581.png" alt=""><figcaption><p>Bulk RNA-seq data in our knowledge base</p></figcaption></figure>
 
 You can find the data in the format of **{"TE"}\_{tissue name}** in our tool, for example, "TE\_placenta", shown as below: &#x20;
 
-<figure><img src="../../.gitbook/assets/te_bulk.png" alt=""><figcaption><p>Bulk RNA-seq data naming convention</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/te_bulk.png" alt=""><figcaption><p>Bulk RNA-seq data naming convention</p></figcaption></figure>
 
 ### Single cell RNA-seq
 
@@ -46,8 +44,8 @@ Data sources:
 
 In the end, the data is transformed into the csv file below:
 
-<figure><img src="../../.gitbook/assets/1733436705900.png" alt=""><figcaption><p>Single cell RNA-seq data in our knowledge base</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1733436705900.png" alt=""><figcaption><p>Single cell RNA-seq data in our knowledge base</p></figcaption></figure>
 
 You can find the data in the format of **{"TE"}\_{tissue name}\_{cluster}\_{cell type}** in our tool, for example, "TE\_fallopian tube\_c-5\_fibroblasts", shown as below:
 
-<figure><img src="../../.gitbook/assets/te_sc.png" alt=""><figcaption><p>Single cell RNA-seq data naming convention</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/te_sc.png" alt=""><figcaption><p>Single cell RNA-seq data naming convention</p></figcaption></figure>

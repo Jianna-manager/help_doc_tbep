@@ -10,16 +10,16 @@ Once you decide the details of your own network, the network visualization page 
 
 Before going over the functions on the left panel, you might want to have some basic understandings of the data available in our tool.&#x20;
 
-[Knowledge Base](../knowledge-base/) integrated in our tool is build based on [disease-dependent data](../knowledge-base/disease-dependent-data/) and [disease-independent data](../knowledge-base/disease-independent-data/). Disease-dependent data indicates the data of specific features varies based on different diseases, while disease-independent data indicates the data remains the same once the disease changes.
+[Knowledge Base](../knowledge-base/) integrated in our tool is build based on [disease-dependent data](broken-reference) and [disease-independent data](broken-reference). Disease-dependent data indicates the data of specific features varies based on different diseases, while disease-independent data indicates the data remains the same once the disease changes.
 
-Disease-dependent data includes [Differential Expression](../knowledge-base/disease-dependent-data/differential-expression.md), [Target Disease Association ](../knowledge-base/disease-dependent-data/target-disease-association.md)and [Target Prioritization Factors](../knowledge-base/disease-independent-data/target-prioritization-factors.md), while disease-independent data includes [Pathways](../knowledge-base/disease-independent-data/pathways.md), [Druggability](../knowledge-base/disease-independent-data/druggability.md) and [Tissue Specificity](../knowledge-base/disease-independent-data/tissue-specificity.md). We also call these data types as **features**.
+Disease-dependent data includes [Differential Expression](broken-reference), [Target Disease Association ](broken-reference)and [Target Prioritization Factors](broken-reference), while disease-independent data includes [Pathways](../knowledge-base/pathways.md), [Druggability](../knowledge-base/druggability.md) and [Tissue Specificity](../knowledge-base/tissue-specificity.md). We also call these data types as **features**.
 
 ### Disease Map
 
 Sometimes you may want to switch to another disease after generating the network visualization, no need to go back to the Dashboard to change the disease and re-render the network, here is a simple way to do it:
 
 * Locate **Disease Map** on the top of the left panel and select the disease name that you want to switch to.&#x20;
-* Please note that only the [disease-dependent data](../knowledge-base/disease-dependent-data/) will change if you switch to another disease.
+* Please note that only the [disease-dependent data](broken-reference) will change if you switch to another disease.
 
 <figure><img src="../.gitbook/assets/1736049227562.png" alt=""><figcaption><p>Disease Map</p></figcaption></figure>
 
