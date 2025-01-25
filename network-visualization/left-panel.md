@@ -72,7 +72,7 @@ You can upload your own customized data to analyze the network, instead of using
 3. Locate Node Color and/or Node Size section and select the corresponding uploaded feature name.
 4. Select the column name of your customized data.
 
-<figure><img src="../.gitbook/assets/1736303808305.png" alt=""><figcaption><p>Custom upload</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1737782274505.png" alt=""><figcaption><p>Custom upload</p></figcaption></figure>
 
 #### File Format
 
