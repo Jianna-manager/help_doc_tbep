@@ -65,7 +65,7 @@ You can find nodes in the network.&#x20;
 
 ### Custom Upload
 
-You can upload your own customized data to analyze the network, instead of using the existing data.
+You can upload your own customized data to analyze the network, instead of using the existing data. Here is a [help video](../use-cases-and-short-help-videos.md#custom-upload).
 
 1. Upload a **CSV** file with your own data, please refer to the [File Format](left-panel.md#file-format) below.
 2. Click Submit.
