@@ -10,3 +10,9 @@ description: Quick hands-on cases
 {% file src=".gitbook/assets/TBEP_custom_upload.mp4" %}
 Custom Upload
 {% endfile %}
+
+### GSEA Analysis
+
+{% file src=".gitbook/assets/TBEP_GSEA_analysis.mp4" %}
+GSEA
+{% endfile %}
