@@ -16,3 +16,9 @@ Custom Upload
 {% file src=".gitbook/assets/TBEP_GSEA_analysis.mp4" %}
 GSEA
 {% endfile %}
+
+### Community Detection
+
+{% file src=".gitbook/assets/TBEP_Leiden.mp4" %}
+Community detection - Leiden
+{% endfile %}
