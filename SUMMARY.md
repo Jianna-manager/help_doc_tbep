@@ -9,6 +9,7 @@
   * [Right panel](network-visualization/right-panel.md)
   * [Network visualization board](network-visualization/network-visualization-board.md)
 * [Knowledge Base](knowledge-base/README.md)
+  * [Differential Expression](knowledge-base/differential-expression.md)
   * [Pathways](knowledge-base/pathways.md)
   * [Druggability](knowledge-base/druggability.md)
   * [Tissue Specificity](knowledge-base/tissue-specificity.md)
